@@ -20,3 +20,6 @@ Résultats
 Réduction de 50% du temps de préparation des reportings financiers, permettant aux contrôleurs de gestion de se concentrer sur des analyses plus stratégiques.
 Amélioration de la précision des données financières, grâce à l'automatisation des processus de reporting et à l'intégration des différentes sources de données.
 Adoption complète des tableaux de bord par les utilisateurs métiers, avec des outils adaptés à leurs besoins et faciles à utiliser.
+
+
+lien vers le rapport power BI PDF: Projet-Reporting-Financier-/blob/main/REPPORTING_FINANCIER.pdf
